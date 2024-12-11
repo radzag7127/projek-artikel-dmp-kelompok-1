@@ -61,7 +61,7 @@ export default function Dashboard() {
         </div>
         <div className="flex items-center space-x-2">
           <span className="h-2 w-2 rounded-full bg-emerald-500"></span>
-          <span className="text-sm">Team 5</span>
+          <span className="text-sm">Team 1</span>
           <span className="text-sm text-muted-foreground">
             Project Analytics
           </span>
